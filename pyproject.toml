@@ -1,0 +1,17 @@
+[project]
+name = "sba-928-sally-jimenez"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Blk Coffee" }
+]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+sba-928-sally-jimenez = "sba_928_sally_jimenez:main"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
