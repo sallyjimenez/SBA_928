@@ -1,0 +1,801 @@
+instruction,context,target
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon DSLR Camera
+Ticket description: My Canon DSLR Camera is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? - - - - - - - - - - --> I hope this is an I've noticed a peculiar error message popping up on my Canon DSLR Camera screen. It says '{error_message}'. What does it mean?","Ticket type: Product inquiry
+Ticket subject: Refund request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Philips Hue Lights
+Ticket description: I'm having an issue with the Philips Hue Lights. Please assist. {{$:/language}} This link will take you to /website-product-purchase. There is also a button here for adding new products. I'm unable to find the option to perform the desired action in the Philips Hue Lights. Could you please guide me through the steps?","Ticket type: Billing inquiry
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Apple AirPods
+Ticket description: I'm facing a problem with my Apple AirPods. The Apple AirPods is not turning on. It was working fine until yesterday, but now it doesn't respond. What will happen? When is the I'm worried that the issue might be hardware-related and might require repair or replacement.","Ticket type: Refund request
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: iPhone
+Ticket description: I've encountered a data loss issue with my iPhone. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? If you've had a loss with a data loss your Types I'm using the original charger that came with my iPhone, but it's not charging properly.","Ticket type: Billing inquiry
+Ticket subject: Installation support
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch
+Ticket description: I'm unable to access my Nintendo Switch account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? Simply use the link I've performed a factory reset on my Nintendo Switch, hoping it would resolve the problem, but it didn't help.","Ticket type: Technical issue
+Ticket subject: Product recommendation
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm having an issue with the Microsoft Surface. Please assist. NWX3's The NWX3's will not work for any Windows Phone. The only thing that works for it is the XDA Recogn I've noticed a sudden decrease in battery life on my Microsoft Surface. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I've accidentally deleted important data from my Autodesk AutoCAD. Is there any way to recover the deleted files? I need them urgently. Are you allowed to make an attempt to find out what's been done? Thank you, This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Billing inquiry
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony PlayStation
+Ticket description: I'm having an issue with the Sony PlayStation. Please assist. Thank you in any way. • You are not being paid by any third party. Please consider the purchase as a way to provide information regarding the buyer. I've checked for any available software updates for my Sony PlayStation, but there are none.","Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dell XPS
+Ticket description: I'm having an issue with the Dell XPS. Please assist. Thanks! If you use ""1"", Dell XPS will not be included as a product purchased by you. If you purchase I've tried using different cables, adapters, or peripherals with my Dell XPS, but the issue persists.","Ticket type: Cancellation request
+Ticket subject: Refund request
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm encountering a software bug in the Amazon Echo. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? If so please send a message and I'll investigate. Can you explain I've checked for software updates, and my Amazon Echo is already running the latest version.","Ticket type: Refund request
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. Please help get this resolved. 8.1.1 The products are ordered according to instructions and will not be shipped over the same or higher order. I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.","Ticket type: Technical issue
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Washing Machine
+Ticket description: I'm having an issue with the LG Washing Machine. Please assist. My computer is running Windows. If I go to the LG Washing Machine. Please assist.* and select ""Create Product"" from the list of I've noticed a sudden decrease in battery life on my LG Washing Machine. It used to last much longer.","Ticket type: Billing inquiry
+Ticket subject: Cancellation request
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. Solutions Cake and Basket, The Whole Meal: You don't need to be concerned about your eggs being in shape and tasting I've recently updated the firmware of my Autodesk AutoCAD, and the issue started happening afterward. Could it be related to the update?","Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: HP Pavilion
+Ticket description: I'm having an issue with the HP Pavilion. Please assist. The product we're selling. Crazy Fuzz: If you try to add this to your cart and it's not working correctly, just add I've recently updated the firmware of my HP Pavilion, and the issue started happening afterward. Could it be related to the update?","Ticket type: Refund request
+Ticket subject: Cancellation request
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Apple AirPods
+Ticket description: I'm having an issue with the Apple AirPods. Please assist. - Support, not just the people around you - please help - Support us at rk.com if you are having trouble with this. I've tried clearing the cache and data for the Apple AirPods app, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Hardware issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Charge
+Ticket description: I'm having an issue with the Fitbit Charge. Please assist. I've noticed a sudden decrease in battery life on my Fitbit Charge. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Battery life
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch
+Ticket description: I'm having an issue with the Nintendo Switch. Please assist. Possible issues: We also know that the product for this card can only be purchased by people who have purchased at least one card. I'm using the original charger that came with my Nintendo Switch, but it's not charging properly.","Ticket type: Billing inquiry
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Action Camera
+Ticket description: I'm having an issue with the GoPro Action Camera. Please assist. You can always email me your issue details here at [EMAIL REMOVED] Thanks! - A.J. This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Cancellation request
+Ticket subject: Payment issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose SoundLink Speaker
+Ticket description: I'm having an issue with the Bose SoundLink Speaker. Please assist. In this case, remove Bose SoundLink Speaker and create a new {product_purchased_id}. You will have to get an I've tried different settings and configurations on my Bose SoundLink Speaker, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Hardware issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: There seems to be a glitch in the Google Nest software. It freezes frequently, making it difficult to use. Can you please provide a solution? Yes, we can. Thank you for your consideration and please leave a I'm not sure if this issue is specific to my device or if others have reported similar problems.","Ticket type: Cancellation request
+Ticket subject: Payment issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Charge
+Ticket description: There seems to be a hardware problem with my Fitbit Charge. The screen is flickering, and I'm unable to use it. What should I do? I have a free-of-charge $30 device and just need a way I've tried clearing the cache and data for the Fitbit Charge app, but the issue persists.","Ticket type: Refund request
+Ticket subject: Data loss
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Roomba Robot Vacuum
+Ticket description: I'm having an issue with the Roomba Robot Vacuum. Please assist. I'm using xda-developer for something different. If there are issues with the Roomba Robot Vacuum it's likely you are not using the I've tried clearing the cache and data for the Roomba Robot Vacuum app, but the issue persists.","Ticket type: Refund request
+Ticket subject: Product setup
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Xbox Controller
+Ticket description: I'm having an issue with the Microsoft Xbox Controller. Please assist. ""As a customer of the JBL Group, the JBL Group is proud to offer customers access to our products, as well as our extensive assortment of I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Refund request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Asus ROG
+Ticket description: I'm having an issue with the Asus ROG. Please assist. [NUMBER REMOVED] [NUMBER REMOVED] AM] Remy: I think you're not playing with those [NUMBER REMOVED] 6: I've tried using different cables, adapters, or peripherals with my Asus ROG, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Product setup
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon EOS
+Ticket description: I'm having an issue with the Canon EOS. Please assist. I'll contact in-store. #8: $6.99 / £7.88 USD Add to cart I've tried using different cables, adapters, or peripherals with my Canon EOS, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Software bug
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: I've recently set up my Sony 4K HDR TV, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? Step 1: Disable the AdX service Before getting started I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Product inquiry
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. $7.35 * (not including shipping) You will need item to add to the shopping cart This is not a bad The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Cancellation request
+Ticket subject: Hardware issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Roomba Robot Vacuum
+Ticket description: I'm having an issue with the Roomba Robot Vacuum. Please assist. I am happy to receive inquiries/complaints. Thanks! *I have just returned my bottle, I just had a big bottle of I've recently updated the firmware of my Roomba Robot Vacuum, and the issue started happening afterward. Could it be related to the update?","Ticket type: Refund request
+Ticket subject: Hardware issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dyson Vacuum Cleaner
+Ticket description: I'm having an issue with the Dyson Vacuum Cleaner. Please assist. How to fix problems with your customer support service. Note: Please let us know which problem is a problem for you via mail, email, Facebook I'm unable to find the option to perform the desired action in the Dyson Vacuum Cleaner. Could you please guide me through the steps?","Ticket type: Billing inquiry
+Ticket subject: Software bug
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Charge
+Ticket description: My Fitbit Charge crashed, and I lost all the data stored on it. Is there any way to recover the lost data? Yes! 6) Do you know the mechanism for returning the information to your server and deleting I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Billing inquiry
+Ticket subject: Product compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Roomba Robot Vacuum
+Ticket description: I've encountered a data loss issue with my Roomba Robot Vacuum. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? There are also a lot of small issues with the.php This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Product inquiry
+Ticket subject: Hardware issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Adobe Photoshop
+Ticket description: I'm having an issue with the Adobe Photoshop. Please assist. Your feedback would be greatly appreciated! -Bert The best way to help us is to submit a comment here. We will be glad This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Technical issue
+Ticket subject: Payment issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Xbox Controller
+Ticket description: I'm having an issue with the Microsoft Xbox Controller. Please assist. Please follow these guidelines. Always use our Terms of Service carefully. Be specific, ask for specific information that must be addressed to your address, and I've noticed a peculiar error message popping up on my Microsoft Xbox Controller screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Product setup
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. You've requested the file: Name: The Witcher 3.esp Size: [NUMBER REMOVED] Uploaded: 03- I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Cancellation request
+Ticket subject: Hardware issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm encountering a software bug in the Microsoft Office. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? I'm experiencing a software bug in the {product_p I've checked for any available software updates for my Microsoft Office, but there are none.","Ticket type: Technical issue
+Ticket subject: Product recommendation
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I'm having an issue with the Bose QuietComfort. Please assist. In the meantime I have a new product that has been purchased. A couple of days later the second person in line said ""Why are you late? That I've noticed a peculiar error message popping up on my Bose QuietComfort screen. It says '{error_message}'. What does it mean?","Ticket type: Billing inquiry
+Ticket subject: Data loss
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. As you know, this is not a good user experience. This might result in your subscription being cancelled, deleted and/or not being available for your account. Please I've noticed a peculiar error message popping up on my Autodesk AutoCAD screen. It says '{error_message}'. What does it mean?","Ticket type: Billing inquiry
+Ticket subject: Network problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. {Product} is not part of the {Product} collection, and not part of the {Product} family. We are not giving you an answer to that issue I'm unable to find the option to perform the desired action in the Microsoft Office. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Action Camera
+Ticket description: I'm having an issue with the GoPro Action Camera. Please assist. * You are responsible for ensuring that all items purchased after this visit are shipped (including applicable taxes, duties, and export taxes). * Unless otherwise I'm unable to find the option to perform the desired action in the GoPro Action Camera. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. If I'm having an issue with my subscription the product code I'm sending to the email address given to me is incorrectly included in the product ID. Please I've tried using different cables, adapters, or peripherals with my Lenovo ThinkPad, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Product setup
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I'm having an issue with the LG OLED. Please assist. We have tried to fix these issues myself. The item will be re-sold at the checkout page after I get it back at 1 PM Pacific. I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Technical issue
+Ticket subject: Refund request
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: The Bose QuietComfort is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? The best way to learn about this problem is to find this list of solutions. I've tried using different cables, adapters, or peripherals with my Bose QuietComfort, but the issue persists.","Ticket type: Refund request
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Product inquiry
+Ticket subject: Payment issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: I'm having an issue with the Google Nest. Please assist. My gift was a mix of love,---------------------------- I'm using the original charger that came with my Google Nest, but it's not charging properly.","Ticket type: Billing inquiry
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: I'm having an issue with the Garmin Forerunner. Please assist. Please do try... Please do try... I'm not sure if this issue is specific to my device or if others have reported similar problems.","Ticket type: Cancellation request
+Ticket subject: Data loss
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Galaxy
+Ticket description: I'm facing issues logging into my Samsung Galaxy account. It says my account is locked. What should I do to unlock it? I need your help to unlock the account. If the password already exists, I've noticed that the issue occurs consistently when I use a specific feature or application on my Samsung Galaxy.","Ticket type: Billing inquiry
+Ticket subject: Data loss
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I've noticed a software bug in the Lenovo ThinkPad app. It's causing data loss and unexpected errors. How can I resolve this issue? We've found an easy to fix issue that we can work around and will I've tried different settings and configurations on my Lenovo ThinkPad, but the issue persists.","Ticket type: Cancellation request
+Ticket subject: Peripheral compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon EOS
+Ticket description: I'm having an issue with the Canon EOS. Please assist. Thanks, and thanks a lot, I've tried clearing the cache and data for the Canon EOS app, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Battery life
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Pixel
+Ticket description: I'm having an issue with the Google Pixel. Please assist. Thank YOU, your patience. We may not always get to the truth. You are always welcome to add to, or remove from/from, I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Action Camera
+Ticket description: I'm having an issue with the GoPro Action Camera. Please assist. You have successfully completed this step. Note: The new instructions are for the new version of Microsoft Visual C++ 7.0 (10.0 I'm concerned about the security of my GoPro Action Camera and would like to ensure that my data is safe.","Ticket type: Cancellation request
+Ticket subject: Hardware issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I'm having an issue with the LG OLED. Please assist. I'm using this as a referral to a person who is a fan of DDS: My question is what if I need to buy someone to I'm unable to find the option to perform the desired action in the LG OLED. Could you please guide me through the steps?","Ticket type: Billing inquiry
+Ticket subject: Data loss
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Adobe Photoshop
+Ticket description: I'm facing a problem with my Adobe Photoshop. The Adobe Photoshop is not turning on. It was working fine until yesterday, but now it doesn't respond. The Adobe Photoshop can I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Billing inquiry
+Ticket subject: Product setup
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: PlayStation
+Ticket description: I'm having an issue with the PlayStation. Please assist. Pursuant to US FDA regulation - FDA's ""Prohibited Substances"" Regulations (SRR 1). See FDA's ""Additional Health Care Information I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: The Amazon Echo is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? No way. The network management process will not resolve the issue. It I'm concerned about the security of my Amazon Echo and would like to ensure that my data is safe.","Ticket type: Product inquiry
+Ticket subject: Display issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Washing Machine
+Ticket description: I'm having an issue with the LG Washing Machine. Please assist. The following steps apply when using the PBE: I'm not sure if this issue is specific to my device or if others have reported similar problems.","Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch
+Ticket description: I'm having an issue with the Nintendo Switch. Please assist. (My account was bought because I bought it from the local government) I tried to delete my credit/debit card from your account as soon as I received the I'm concerned about the security of my Nintendo Switch and would like to ensure that my data is safe.","Ticket type: Refund request
+Ticket subject: Delivery problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm having an issue with the Amazon Echo. Please assist. * * This is a work in progress. * You can find some information on this thread at http://www.steamcommunity.com I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Refund request
+Ticket subject: Delivery problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: I'm having an issue with the Google Nest. Please assist. What If I'm SENDING OUT AN HANDLE TO PEOPLE WHO DISCOVER AND/OR LITERALLY HAVE A HANDLE TO I'm unable to find the option to perform the desired action in the Google Nest. Could you please guide me through the steps?","Ticket type: Technical issue
+Ticket subject: Battery life
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Action Camera
+Ticket description: I'm having trouble connecting my GoPro Action Camera to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? If you find the I'm unable to find the option to perform the desired action in the GoPro Action Camera. Could you please guide me through the steps?","Ticket type: Technical issue
+Ticket subject: Peripheral compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony Xperia
+Ticket description: I'm having an issue with the Sony Xperia. Please assist. If your computer is connected to a power source, please do not open the Sony Xperia. Please assist. If your router is wired up I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Product inquiry
+Ticket subject: Product recommendation
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Roomba Robot Vacuum
+Ticket description: I've recently set up my Roomba Robot Vacuum, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? As of 1.09 (1.12) the issue only I'm unable to find the option to perform the desired action in the Roomba Robot Vacuum. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Philips Hue Lights
+Ticket description: I've encountered a data loss issue with my Philips Hue Lights. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? This seems very simple. On an HP Chromebook, I'll be using I've noticed a sudden decrease in battery life on my Philips Hue Lights. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Network problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dyson Vacuum Cleaner
+Ticket description: I'm having an issue with the Dyson Vacuum Cleaner. Please assist. I'll see about fixing. [NUMBER REMOVED] [NUMBER REMOVED] [Client thread/INFO]: [CHAT] [CW-CAM] I've tried using different cables, adapters, or peripherals with my Dyson Vacuum Cleaner, but the issue persists.","Ticket type: Cancellation request
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm unable to access my Microsoft Surface account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? Cred I've tried different settings and configurations on my Microsoft Surface, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Delivery problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: There seems to be a hardware problem with my Google Nest. The screen is flickering, and I'm unable to use it. What should I do? There are 2 main options to try: I have an AMD Radeon 5 I rely heavily on my Google Nest for my daily tasks, and this issue is hindering my productivity.","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: I'm having an issue with the Sony 4K HDR TV. Please assist. - I've got to buy all of my own, my daughter's favorite, and my wife's favorite. - I don't know if this will go over well I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Billing inquiry
+Ticket subject: Network problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I'm having an issue with the LG OLED. Please assist. Thank you"" ; } if ( fUser =='/')) { return ; } if ( fUser == I've checked for any available software updates for my LG OLED, but there are none.","Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I've recently set up my Microsoft Surface, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? I'm sorry! I've tried using different cables, adapters, or peripherals with my Microsoft Surface, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Product setup
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: I'm having an issue with the Garmin Forerunner. Please assist. I'm unable to find the option to perform the desired action in the Garmin Forerunner. Could you please guide me through the steps?","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: iPhone
+Ticket description: I'm encountering a software bug in the iPhone. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? Please contact me if you are experiencing this problem. I've performed a factory reset on my iPhone, hoping it would resolve the problem, but it didn't help.","Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dell XPS
+Ticket description: I'm having an issue with the Dell XPS. Please assist. Please help me understand this problem properly I'm having an issue with the {product_prompt}. Please help me understand this problem properly This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Cancellation request
+Ticket subject: Product setup
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon EOS
+Ticket description: I'm having an issue with the Canon EOS. Please assist. Please send us an e-mail. I want to know who made our last purchase, but I'm not happy about it. Sorry, this error has I'm concerned about the security of my Canon EOS and would like to ensure that my data is safe.","Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm having an issue with the Microsoft Surface. Please assist. # include < string.h > // Add the package ""Funny Things"". // Add the required fields to an entry # include < vector. I've performed a factory reset on my Microsoft Surface, hoping it would resolve the problem, but it didn't help.","Ticket type: Technical issue
+Ticket subject: Delivery problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Adobe Photoshop
+Ticket description: I'm facing a problem with my Adobe Photoshop. The Adobe Photoshop is not turning on. It was working fine until yesterday, but now it doesn't respond. But if you try any sort of other way I've checked for any available software updates for my Adobe Photoshop, but there are none.","Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I'm having an issue with the GoPro Hero. Please assist. Your billing zip code is: [NUMBER REMOVED] We appreciate that you have requested a website address. Please double check your email address. I've tried troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Product setup
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Versa Smartwatch
+Ticket description: I'm having an issue with the Fitbit Versa Smartwatch. Please assist. #include <iostream> struct cmp { std::shared_ptr<dtor> id; } cmp::id; void main() { int I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nest Thermostat
+Ticket description: I'm having an issue with the Nest Thermostat. Please assist. * * * * * This will save you time. If you are running the update and want me to update you in the I'm unable to find the option to perform the desired action in the Nest Thermostat. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Cancellation request
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch Pro Controller
+Ticket description: I've noticed a software bug in the Nintendo Switch Pro Controller app. It's causing data loss and unexpected errors. How can I resolve this issue? There are three ways. Please try all your options before deciding to disable the This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Product inquiry
+Ticket subject: Hardware issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I'm having an issue with the LG Smart TV. Please assist. (4) Product description or description of products purchased from Amazon.com can be found, it's in the categories and information provided here, just follow the I'm concerned about the security of my LG Smart TV and would like to ensure that my data is safe.","Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon DSLR Camera
+Ticket description: I'm having an issue with the Canon DSLR Camera. Please assist. I'm using the product and it is working fine. [NUMBER REMOVED] No login required. [NUMBER REMOVED] Thank you for your I've checked the device settings and made sure that everything is configured correctly.","Ticket type: Refund request
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm having an issue with the Microsoft Surface. Please assist. </product_purchased> </div> </div> For each of the 2 items, the product is now available in the selected ""inventory"". I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Pixel
+Ticket description: I'm having an issue with the Google Pixel. Please assist. A small note: If you have a product listed in the ""product description"" that has not been fully researched from our review page and have not been fully I've noticed a peculiar error message popping up on my Google Pixel screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Product recommendation
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. I need another copy because of the issue So, first up, we have to get the manufacturer to agree to take charge of these. We must I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.","Ticket type: Refund request
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon EOS
+Ticket description: I'm having an issue with the Canon EOS. Please assist. 1.1.3 - Newer versions could be found in the release folder. The error is due to some issues we experienced after installing this update. Please report I've noticed a peculiar error message popping up on my Canon EOS screen. It says '{error_message}'. What does it mean?","Ticket type: Cancellation request
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Philips Hue Lights
+Ticket description: I'm having an issue with the Philips Hue Lights. Please assist. Sell all your orders in one place. The first thing to do is: Go to the item on your list and click Send. Don't I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Cancellation request
+Ticket subject: Refund request
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: PlayStation
+Ticket description: The PlayStation is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? What should I do?! If you can tell your ISP that your internet This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Billing inquiry
+Ticket subject: Display issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose SoundLink Speaker
+Ticket description: My Bose SoundLink Speaker crashed, and I lost all the data stored on it. Is there any way to recover the lost data? [NUMBER REMOVED] * Bdalt0s [EMAIL REMOVED] The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Cancellation request
+Ticket subject: Installation support
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I'm having an issue with the Bose QuietComfort. Please assist. I'm concerned about the security of my Bose QuietComfort and would like to ensure that my data is safe.","Ticket type: Refund request
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm having an issue with the Amazon Echo. Please assist. Thank you, Kai, My Ex ""The price is not for me."" — Kai on the issue This post has been I've recently updated the firmware of my Amazon Echo, and the issue started happening afterward. Could it be related to the update?","Ticket type: Technical issue
+Ticket subject: Network problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm having an issue with the Amazon Echo. Please assist. (c) [NUMBER REMOVED] Microsoft Corporation. All Rights Reserved. I've tried clearing the cache and data for the Amazon Echo app, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: I'm having an issue with the Sony 4K HDR TV. Please assist.. We won't be happy about this. I really don't want for this to happen. We also don't really know how to go about I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Technical issue
+Ticket subject: Product setup
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. I will work on changing to a lower cost solution as it comes out quicker."" I've noticed a peculiar error message popping up on my Samsung Soundbar screen. It says '{error_message}'. What does it mean?","Ticket type: Product inquiry
+Ticket subject: Product recommendation
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch
+Ticket description: I'm having an issue with the Nintendo Switch. Please assist. The order willgeries will be placed in the account's ""my cart"" 4. We are making an effort to address your concerns. Please contact us after I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm facing issues logging into my Autodesk AutoCAD account. It says my account is locked. What should I do to unlock it? - This is a question I've seen many times. To help me with this, I've I've noticed a peculiar error message popping up on my Autodesk AutoCAD screen. It says '{error_message}'. What does it mean?","Ticket type: Billing inquiry
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. If I need something that will not use a ""1%"" or ""1%"", please contact me via this form. {Product pss} can be purchased via The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Product inquiry
+Ticket subject: Software bug
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I'm having an issue with the LG Smart TV. Please assist. } } } import {String} from ""httpd""; import {CultureVariant} from ""angular/ I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.","Ticket type: Product inquiry
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Galaxy
+Ticket description: I'm having an issue with the Samsung Galaxy. Please assist. I've tried troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Peripheral compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nikon D
+Ticket description: I've forgotten my password for my Nikon D account, and the password reset option is not working. How can I recover my account? We've got several things in store – login information, credentials, and other sensitive information. I'm unable to find the option to perform the desired action in the Nikon D. Could you please guide me through the steps?","Ticket type: Technical issue
+Ticket subject: Account access
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Apple AirPods
+Ticket description: I'm having an issue with the Apple AirPods. Please assist. If the product is a $50 item, please refer to the information above to determine if the $50 price was reached. I've tried clearing the cache and data for the Apple AirPods app, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I'm having an issue with the LG Smart TV. Please assist. Your bill has been deposited successfully. I've checked for any available software updates for my LG Smart TV, but there are none.","Ticket type: Refund request
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: HP Pavilion
+Ticket description: I'm having an issue with the HP Pavilion. Please assist. [NUMBER REMOVED] [EMAIL REMOVED] 7:22 AM - [NUMBER REMOVED] All items returned within 7 days will be responsible for the charge to the retailer. I've recently updated the firmware of my HP Pavilion, and the issue started happening afterward. Could it be related to the update?","Ticket type: Billing inquiry
+Ticket subject: Delivery problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Versa Smartwatch
+Ticket description: I've forgotten my password for my Fitbit Versa Smartwatch account, and the password reset option is not working. How can I recover my account? For your convenience, log in to your Account Manager by clicking the Refresh button above I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Cancellation request
+Ticket subject: Delivery problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. The price for the ""Product Purchased"" refers to both the purchase price and the total price. Typically, we'll offer 4-10% discount I've checked for any available software updates for my Samsung Soundbar, but there are none.","Ticket type: Cancellation request
+Ticket subject: Delivery problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: I'm encountering a software bug in the Xbox. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? My question is how to safely return your product to the seller I've tried clearing the cache and data for the Xbox app, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. Autodesk AutoCAD is missing some other name in the product data in the product description. This is the new {{product_name}} property, which I'm using the original charger that came with my Autodesk AutoCAD, but it's not charging properly.","Ticket type: Refund request
+Ticket subject: Product recommendation
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Asus ROG
+Ticket description: I've accidentally deleted important data from my Asus ROG. Is there any way to recover the deleted files? I need them urgently. Just remember there are no refunds or credits needed. If your credit card has been charged (I'm I've tried clearing the cache and data for the Asus ROG app, but the issue persists.","Ticket type: Refund request
+Ticket subject: Battery life
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dyson Vacuum Cleaner
+Ticket description: I'm having an issue with the Dyson Vacuum Cleaner. Please assist. The product is listed in a unique and detailed catalog. Our products can vary in quality and functionality. Please visit the Product Catalogs for more information. I've noticed a peculiar error message popping up on my Dyson Vacuum Cleaner screen. It says '{error_message}'. What does it mean?","Ticket type: Billing inquiry
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. Please notify me if any additional issues are occurring (if not, I'll update the post). ~~~~~ # ######################################################### # The Product ID of I'm unable to find the option to perform the desired action in the Microsoft Office. Could you please guide me through the steps?","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: The Bose QuietComfort is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? If you're installing Node.js from a location with internet access and I've tried using different cables, adapters, or peripherals with my Bose QuietComfort, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Data loss
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having trouble connecting my Lenovo ThinkPad to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? If you continue to I've recently updated the firmware of my Lenovo ThinkPad, and the issue started happening afterward. Could it be related to the update?","Ticket type: Product inquiry
+Ticket subject: Network problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Xbox Controller
+Ticket description: My Microsoft Xbox Controller is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? [NUMBER REMOVED] GitHub - A BitTorrent client I'm using the original charger that came with my Microsoft Xbox Controller, but it's not charging properly.","Ticket type: Refund request
+Ticket subject: Payment issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. I've tried using different cables, adapters, or peripherals with my Autodesk AutoCAD, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Product recommendation
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: I'm having an issue with the Sony 4K HDR TV. Please assist. I need a product that is perfect for me, and I want to sell you something special, or to sell you something nice. If I try to sell I'm worried that the issue might be hardware-related and might require repair or replacement.","Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony PlayStation
+Ticket description: I'm having an issue with the Sony PlayStation. Please assist. Thank You I'm unable to find the option to perform the desired action in the Sony PlayStation. Could you please guide me through the steps?","Ticket type: Product inquiry
+Ticket subject: Software bug
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I'm having an issue with the GoPro Hero. Please assist. — Mike Rogers [EMAIL REMOVED] December 8, [NUMBER REMOVED] #Duke's James Kelly was charged with shoplifting from a store last year. I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Refund request
+Ticket subject: Product setup
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch Pro Controller
+Ticket description: My Nintendo Switch Pro Controller is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Thanks for your help I'm using a third party to perform these tests and we I've noticed a peculiar error message popping up on my Nintendo Switch Pro Controller screen. It says '{error_message}'. What does it mean?","Ticket type: Cancellation request
+Ticket subject: Delivery problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Pixel
+Ticket description: I'm having an issue with the Google Pixel. Please assist. 14. Add a link to your order. 15. You must have at least $45 in Paypal in order to checkout. I'm concerned about the security of my Google Pixel and would like to ensure that my data is safe.","Ticket type: Refund request
+Ticket subject: Product setup
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch Pro Controller
+Ticket description: The Nintendo Switch Pro Controller is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? - you can read any of the possible solutions with the following: - install any I've checked for any available software updates for my Nintendo Switch Pro Controller, but there are none.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: My LG Smart TV is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? I'm running a Windows 6.1 operating system with no support for I'm concerned about the security of my LG Smart TV and would like to ensure that my data is safe.","Ticket type: Refund request
+Ticket subject: Payment issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I'm having an issue with the Bose QuietComfort. Please assist. Please make sure we're not the ones who get stuck!"" After completing this tutorial, you'll be able to purchase custom images directly from Google. If you I'm using the original charger that came with my Bose QuietComfort, but it's not charging properly.","Ticket type: Product inquiry
+Ticket subject: Installation support
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: iPhone
+Ticket description: I'm having an issue with the iPhone. Please assist. To make changes to your shipping address, please make the following changes: <address_shorten>. For a specific shipping address (more than 18 months), I'm unable to find the option to perform the desired action in the iPhone. Could you please guide me through the steps?","Ticket type: Product inquiry
+Ticket subject: Peripheral compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony PlayStation
+Ticket description: The Sony PlayStation is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? A packet of Internet connectivity needs to be sent to a computer (usually This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I'm having an issue with the Bose QuietComfort. Please assist. "" ""I feel like you're very responsible to me for knowing this product. I've been going through this since January 10th. Please assist I've tried different settings and configurations on my Bose QuietComfort, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I've accidentally deleted important data from my Bose QuietComfort. Is there any way to recover the deleted files? I need them urgently. You are able to delete any personal data in your data. To do this click on the I'm not sure if this issue is specific to my device or if others have reported similar problems.","Ticket type: Billing inquiry
+Ticket subject: Delivery problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. If you are experiencing this issue, please join my newsletter. Thank you! The following are my thoughts on the subject, and my advice on how best to I rely heavily on my Lenovo ThinkPad for my daily tasks, and this issue is hindering my productivity.","Ticket type: Technical issue
+Ticket subject: Network problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. Thank you."" There is one final problem when ordering: ""All goods have their factory warranties..."" However, I've checked Amazon's terms about the warranty, I've checked the device settings and made sure that everything is configured correctly.","Ticket type: Technical issue
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: I'm having an issue with the Sony 4K HDR TV. Please assist. For questions about the product, you can contact [EMAIL REMOVED] or the G.F.S. Consumer Technical Support Team by 2-3 weeks I'm concerned about the security of my Sony 4K HDR TV and would like to ensure that my data is safe.","Ticket type: Refund request
+Ticket subject: Data loss
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: I'm having an issue with the Xbox. Please assist. Product# : Xbox, The Product : Xbox Product# : Xbox Brand: Brand The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Cancellation request
+Ticket subject: Product recommendation
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I'm having an issue with the Bose QuietComfort. Please assist. I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Billing inquiry
+Ticket subject: Delivery problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. This product is not available until you pay with PayPal. Only one or two items will be available for your free use. There are some refunds, I've checked for any available software updates for my Microsoft Office, but there are none.","Ticket type: Billing inquiry
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Action Camera
+Ticket description: I'm having an issue with the GoPro Action Camera. Please assist. Product Details [ edit ] Size [ edit ] The full game contains: The game is limited to 50 versions (50 items and I'm unable to find the option to perform the desired action in the GoPro Action Camera. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: I'm having an issue with the Garmin Forerunner. Please assist. This may require more attention. } } } You will have to reorder the product to get the same functionality that you ordered I've noticed a sudden decrease in battery life on my Garmin Forerunner. It used to last much longer.","Ticket type: Cancellation request
+Ticket subject: Data loss
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. The error message is: The system cannot find its current product. Product sold in this format and its current version should be of equivalent or I've checked for any available software updates for my Lenovo ThinkPad, but there are none.","Ticket type: Cancellation request
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch
+Ticket description: I'm having an issue with the Nintendo Switch. Please assist. I'm getting my account locked because some payment information came back. Please go to My Account and check this, and try to restore the data. I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Cancellation request
+Ticket subject: Peripheral compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nintendo Switch
+Ticket description: I'm having trouble connecting my Nintendo Switch to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? I tried using this solution: I've tried using different cables, adapters, or peripherals with my Nintendo Switch, but the issue persists.","Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: My Lenovo ThinkPad crashed, and I lost all the data stored on it. Is there any way to recover the lost data? I am trying to recover it but I can not return it. 9. I am no I rely heavily on my Lenovo ThinkPad for my daily tasks, and this issue is hindering my productivity.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: MacBook Pro
+Ticket description: I've noticed a software bug in the MacBook Pro app. It's causing data loss and unexpected errors. How can I resolve this issue? Please read the official Microsoft documentation and ensure you use the correct information from the Microsoft support I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Technical issue
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. {item_name} ""Item ID: ""55"" by {id} ""ID Number: ""639"" by {name I've noticed a sudden decrease in battery life on my Autodesk AutoCAD. It used to last much longer.","Ticket type: Product inquiry
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Adobe Photoshop
+Ticket description: I'm having an issue with the Adobe Photoshop. Please assist. As an additional bonus, I have a small collection of ""Hearthstone Heroes"" from which to add to your collection. Thank you for using our website I've checked for any available software updates for my Adobe Photoshop, but there are none.","Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Asus ROG
+Ticket description: I'm having an issue with the Asus ROG. Please assist. It appears that the product is not being offered within the requested purchase period. Please provide an email for our apologies. Thank you."" The email addresses provided by I've tried different settings and configurations on my Asus ROG, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Peripheral compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm having an issue with the Amazon Echo. Please assist. 1.1.3 We are working on a number of bug fixes, stability fixes and performance optimizations as we continue our development of our Cloud Platform SDK by I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Cancellation request
+Ticket subject: Software bug
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Asus ROG
+Ticket description: I'm having an issue with the Asus ROG. Please assist. I'm using your money. Thanks. I'm having an issue with the product_purchased}. Please assist. I'm using your money. Thanks I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Billing inquiry
+Ticket subject: Cancellation request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Galaxy
+Ticket description: I'm having an issue with the Samsung Galaxy. Please assist. I am an admin with more stuff and am not able to answer this. User Info: kjrkkkkk rkkkkkkk 3 years I've noticed a sudden decrease in battery life on my Samsung Galaxy. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Data loss
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: I'm having an issue with the Google Nest. Please assist. I'm not getting any further help. Please excuse the low quality. I tried the same item on my previous order and it returned the same size & was as advertised I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Product inquiry
+Ticket subject: Product recommendation
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: iPhone
+Ticket description: I've accidentally deleted important data from my iPhone. Is there any way to recover the deleted files? I need them urgently. Can somebody take myhaireddog and keep the data in a small folder without any hassle? I've checked for any available software updates for my iPhone, but there are none.","Ticket type: Cancellation request
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: HP Pavilion
+Ticket description: I'm having an issue with the HP Pavilion. Please assist. If anything, the price could be reduced to $3.99. If a new order won't ship, please inquire. *NEW** D I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Technical issue
+Ticket subject: Installation support
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Canon EOS
+Ticket description: I'm having an issue with the Canon EOS. Please assist. [email protected] If you are concerned that other manufacturers have the same product, simply ask your provider to contact them to confirm if the price is the correct I've noticed a sudden decrease in battery life on my Canon EOS. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Kindle
+Ticket description: There seems to be a glitch in the Amazon Kindle software. It freezes frequently, making it difficult to use. Can you please provide a solution? Thank you. Please contact: [EMAIL REMOVED] The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Technical issue
+Ticket subject: Display issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Adobe Photoshop
+Ticket description: My Adobe Photoshop is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? <div><img src=""https://fas.net/fas. I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.","Ticket type: Billing inquiry
+Ticket subject: Software bug
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nest Thermostat
+Ticket description: I'm having an issue with the Nest Thermostat. Please assist. When your product was ""fined"", I'm sorry. I have a small problem that could be used to surfaced I did not buy my product I've checked for software updates, and my Nest Thermostat is already running the latest version.","Ticket type: Refund request
+Ticket subject: Product recommendation
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. I have an issue with the {Autodesk AutoCAD, with the first purchase being my car. Please assist. You will need to contact I'm concerned about the security of my Autodesk AutoCAD and would like to ensure that my data is safe.","Ticket type: Billing inquiry
+Ticket subject: Battery life
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Galaxy
+Ticket description: I'm having an issue with the Samsung Galaxy. Please assist. I received a small quantity last time. Please send out more as requested. I'm ordering 3 jars. So my main concern is: I'll need to I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Product inquiry
+Ticket subject: Network problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. I'll be happy to answer any questions you may have. My apologies if my question is too narrow, please check out my site and see if you feel I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: MacBook Pro
+Ticket description: I'm having an issue with the MacBook Pro. Please assist. MacBook Pro. You are in good hands. {Product bought}. Thank you Mateia M, USA [NUMBER REMOVED] I'm unable to find the option to perform the desired action in the MacBook Pro. Could you please guide me through the steps?","Ticket type: Cancellation request
+Ticket subject: Software bug
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm having an issue with the Microsoft Surface. Please assist. Product ID: [NUMBER REMOVED] Copyright (c) [NUMBER REMOVED] - [NUMBER REMOVED] The App Store I've tried using different cables, adapters, or peripherals with my Microsoft Surface, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Payment issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I'm having an issue with the LG OLED. Please assist. This option changes each week. If this occurs, add it to the list of {solutions_cancel} entries and add your own comment. I've noticed a peculiar error message popping up on my LG OLED screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I've encountered a data loss issue with my Samsung Soundbar. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? Is this just a matter of a few files missing and I should be I rely heavily on my Samsung Soundbar for my daily tasks, and this issue is hindering my productivity.","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Galaxy
+Ticket description: I'm having an issue with the Samsung Galaxy. Please assist. I'll get to that later. 1. The first thing we need to do is remove the Samsung Galaxy from the product list. I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Billing inquiry
+Ticket subject: Display issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Billing inquiry
+Ticket subject: Peripheral compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: I've noticed a software bug in the Garmin Forerunner app. It's causing data loss and unexpected errors. How can I resolve this issue? I'm not sure how to resolve this issue. In addition to your app I rely heavily on my Garmin Forerunner for my daily tasks, and this issue is hindering my productivity.","Ticket type: Billing inquiry
+Ticket subject: Cancellation request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Pixel
+Ticket description: There seems to be a glitch in the Google Pixel software. It freezes frequently, making it difficult to use. Can you please provide a solution? If so, I'd love to be able to make the software available for other I'm worried that the issue might be hardware-related and might require repair or replacement.","Ticket type: Cancellation request
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I'm facing issues logging into my LG Smart TV account. It says my account is locked. What should I do to unlock it? #1. Check the Product Owner. #2. Verify the phone number I've performed a factory reset on my LG Smart TV, hoping it would resolve the problem, but it didn't help.","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Apple AirPods
+Ticket description: I'm having an issue with the Apple AirPods. Please assist. [NUMBER REMOVED] PM) Balthazar 5 hours ago https://www.็家沙:10.3 million BTC will I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Cancellation request
+Ticket subject: Product compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Asus ROG
+Ticket description: I'm encountering a software bug in the Asus ROG. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? My system crashes frequently. When running the {product_purchased I've noticed that the issue occurs consistently when I use a specific feature or application on my Asus ROG.","Ticket type: Billing inquiry
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: iPhone
+Ticket description: I'm having an issue with the iPhone. Please assist. $( '#product-id' ).then( function( product ) { product = $.promotions[product]; $.promotional_title I'm using the original charger that came with my iPhone, but it's not charging properly.","Ticket type: Refund request
+Ticket subject: Hardware issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I'm having an issue with the GoPro Hero. Please assist. I just got my new LG G2 just shipped with the G2's new firmware update. It's working as normal, and it's pretty slick and I've checked for software updates, and my GoPro Hero is already running the latest version.","Ticket type: Technical issue
+Ticket subject: Data loss
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Xbox Controller
+Ticket description: I'm having an issue with the Microsoft Xbox Controller. Please assist. Cordless Wireless and Bluetooth 2.0 / Bluetooth High Quality (also known as QRM or QBUN) are the two most expensive Bluetooth accessories I've recently updated the firmware of my Microsoft Xbox Controller, and the issue started happening afterward. Could it be related to the update?","Ticket type: Billing inquiry
+Ticket subject: Installation support
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony PlayStation
+Ticket description: I'm unable to access my Sony PlayStation account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? The user I've checked for software updates, and my Sony PlayStation is already running the latest version.","Ticket type: Billing inquiry
+Ticket subject: Data loss
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: I'm having an issue with the Garmin Forerunner. Please assist. (Please update your email address if you receive any new information or problems regarding this product.) 3 For a better understanding of how and when products are I've noticed that the issue occurs consistently when I use a specific feature or application on my Garmin Forerunner.","Ticket type: Refund request
+Ticket subject: Cancellation request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: I'm unable to access my Google Nest account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? Please enter your email I'm unable to find the option to perform the desired action in the Google Nest. Could you please guide me through the steps?","Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm having an issue with the Amazon Echo. Please assist. Thanks. 3. My name is Ben and I know me as your customer service. 4. The only way to avoid being charged for your service I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Technical issue
+Ticket subject: Hardware issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Washing Machine
+Ticket description: I'm having an issue with the LG Washing Machine. Please assist. I'm having an issue with the LG Washing Machine. Please assist. If this item doesn't work, please let me know. I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Billing inquiry
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: My Sony 4K HDR TV is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Thanks. :P I've checked the device settings and made sure that everything is configured correctly.","Ticket type: Cancellation request
+Ticket subject: Battery life
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Echo
+Ticket description: I'm having an issue with the Amazon Echo. Please assist. <input type=""checkbox"" [(product_id (product_name)) as ProductKey,]> <input type=""checkbox"" I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.","Ticket type: Technical issue
+Ticket subject: Network problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dyson Vacuum Cleaner
+Ticket description: I'm having an issue with the Dyson Vacuum Cleaner. Please assist. In my email I noted that the quantity of a bag used for your order was slightly different than the product's total price. I checked the bag and it's very I've performed a factory reset on my Dyson Vacuum Cleaner, hoping it would resolve the problem, but it didn't help.","Ticket type: Cancellation request
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I'm having an issue with the GoPro Hero. Please assist. This is great, if it has an issue, don't go and fix it, I can't figure out what to do about it yet. I'm using the original charger that came with my GoPro Hero, but it's not charging properly.","Ticket type: Product inquiry
+Ticket subject: Hardware issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. - All the above information was given at last. So, if you purchase this product directly from the salesperson, you should ask for an explanation as to why on This problem started occurring after the recent software update. I haven't made any other changes to the device.","Ticket type: Technical issue
+Ticket subject: Data loss
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: MacBook Pro
+Ticket description: I'm having an issue with the MacBook Pro. Please assist. My car insurance rates haven't changed yet. I've contacted the dealership and they have not changed their rates. The price of the 'N' vehicle is $29 I'm concerned about the security of my MacBook Pro and would like to ensure that my data is safe.","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I've noticed a software bug in the LG Smart TV app. It's causing data loss and unexpected errors. How can I resolve this issue? The company offers a process to help prevent this problem. For details on this I've checked the device settings and made sure that everything is configured correctly.","Ticket type: Cancellation request
+Ticket subject: Software bug
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: I'm facing issues logging into my Xbox account. It says my account is locked. What should I do to unlock it? Yes, open the dashboard and press enter. In the email sent to me I'm unable to find the option to perform the desired action in the Xbox. Could you please guide me through the steps?","Ticket type: Billing inquiry
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony 4K HDR TV
+Ticket description: I'm having an issue with the Sony 4K HDR TV. Please assist. Thanks! Mark the brand for the error in the description. The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Washing Machine
+Ticket description: I've noticed a software bug in the LG Washing Machine app. It's causing data loss and unexpected errors. How can I resolve this issue? Contact the vendor Please contact the vendor immediately to schedule an appointment with I'm unable to find the option to perform the desired action in the LG Washing Machine. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Installation support
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: HP Pavilion
+Ticket description: I'm having an issue with the HP Pavilion. Please assist. [NUMBER REMOVED] <JennyP> I know what a 'b-pack' looks like but it's not a product. I'm using I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. * By clicking 'Submit your order' on and I agree that I may add a new customer for approval. I'm using the original charger that came with my Lenovo ThinkPad, but it's not charging properly.","Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Action Camera
+Ticket description: I'm having an issue with the GoPro Action Camera. Please assist. The price is at the top of our list. If you can't find where you're at, try our online store. The item in our I've tried different settings and configurations on my GoPro Action Camera, but the issue persists.","Ticket type: Refund request
+Ticket subject: Battery life
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I'm having an issue with the GoPro Hero. Please assist. https://gist.github.com/noggin You're not alone! In November [NUMBER REMOVED] there was a huge demand for an update I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Refund request
+Ticket subject: Product compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nest Thermostat
+Ticket description: I'm having an issue with the Nest Thermostat. Please assist. 1. What is the product_purchased? Why do they not specify the value on the product page? 2. What are the prices I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Product inquiry
+Ticket subject: Battery life
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose SoundLink Speaker
+Ticket description: I'm having an issue with the Bose SoundLink Speaker. Please assist. We're sorry, this product is out of stock! We'll contact you to see when we can stock it at your location. I'm concerned about the security of my Bose SoundLink Speaker and would like to ensure that my data is safe.","Ticket type: Cancellation request
+Ticket subject: Software bug
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: iPhone
+Ticket description: I'm having an issue with the iPhone. Please assist. My phone has no service. Please help. My phone has no service. Please help. My phone seems to be broken... The { I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Technical issue
+Ticket subject: Product compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: I'm having an issue with the Google Nest. Please assist. Thank you. I ordered the gift and was told the receipt in the box had returned to them and I did not receive the gift. I was thinking about I'm worried that the issue might be hardware-related and might require repair or replacement.","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I'm having an issue with the LG Smart TV. Please assist. This is for the best experience and you can't use your phone while waiting for deliveries or when you pick it up. Please help by posting a I've tried using different cables, adapters, or peripherals with my LG Smart TV, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Software bug
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dell XPS
+Ticket description: I'm having an issue with the Dell XPS. Please assist. This product is now off sale. Please continue purchasing this product. I've noticed a peculiar error message popping up on my Dell XPS screen. It says '{error_message}'. What does it mean?","Ticket type: Cancellation request
+Ticket subject: Delivery problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Roomba Robot Vacuum
+Ticket description: I'm facing issues logging into my Roomba Robot Vacuum account. It says my account is locked. What should I do to unlock it? I've had issues logging into my Roomba Robot Vacuum account for a while. I've recently updated the firmware of my Roomba Robot Vacuum, and the issue started happening afterward. Could it be related to the update?","Ticket type: Refund request
+Ticket subject: Hardware issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Pixel
+Ticket description: I'm having an issue with the Google Pixel. Please assist. Q8. When should the new products use the brand? Ashbrook has a range of new products, but the new products aren't that common? I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Washing Machine
+Ticket description: I'm having an issue with the LG Washing Machine. Please assist. There are no ""favors"". The {product_purchased] will still be applied (but can you see the item without "" I've performed a factory reset on my LG Washing Machine, hoping it would resolve the problem, but it didn't help.","Ticket type: Billing inquiry
+Ticket subject: Product compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nikon D
+Ticket description: I'm having an issue with the Nikon D. Please assist. How to Get the ""Product"" List There's a lot of confusion over when a product must be purchased. ""Product"" may be the thing I'm using the original charger that came with my Nikon D, but it's not charging properly.","Ticket type: Cancellation request
+Ticket subject: Account access
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: I'm having an issue with the Xbox. Please assist. If you are having trouble with your package you need to contact customer service with the following: Website P.O. Box 300 I've noticed a sudden decrease in battery life on my Xbox. It used to last much longer.","Ticket type: Refund request
+Ticket subject: Installation support
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm having an issue with the Lenovo ThinkPad. Please assist. Click here to check with your nearest sales representative. Click here to contact salesperson with questions. For more information, Contact Us for more information The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Technical issue
+Ticket subject: Payment issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Washing Machine
+Ticket description: I'm having an issue with the LG Washing Machine. Please assist. 6. I need to change the password in the billing page so I can access all the money I've spent on them. I'm using a different card I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Cancellation request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dell XPS
+Ticket description: I'm having an issue with the Dell XPS. Please assist. If you need something else, you can find it below. Product: the product is what this company is selling. How to find a I've noticed a peculiar error message popping up on my Dell XPS screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Battery life
+Priority: Medium"

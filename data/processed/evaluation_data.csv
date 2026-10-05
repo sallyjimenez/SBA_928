@@ -1,0 +1,101 @@
+instruction,context,target
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm having an issue with the Microsoft Surface. Please assist. Please tell all your friends to pick up the Microsoft Surface. 1. Click the ""Store Available"" check box in the bottom right next I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Refund request
+Ticket subject: Product recommendation
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: I'm having an issue with the Xbox. Please assist. • There are errors and issues if a particular product or service isn't being offered. If this is the case, please let me know. • The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Technical issue
+Ticket subject: Product compatibility
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nest Thermostat
+Ticket description: My Nest Thermostat is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Thank you! I've noticed a sudden decrease in battery life on my Nest Thermostat. It used to last much longer.","Ticket type: Refund request
+Ticket subject: Refund request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose QuietComfort
+Ticket description: I'm having an issue with the Bose QuietComfort. Please assist. Please. Thanks. I've checked for software updates, and my Bose QuietComfort is already running the latest version.","Ticket type: Product inquiry
+Ticket subject: Delivery problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. Please help us in your search. Samsung Soundbar, {} The price doesn't reflect any money spent in our shop and we didn't The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Technical issue
+Ticket subject: Display issue
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dell XPS
+Ticket description: I'm facing a problem with my Dell XPS. The Dell XPS is not turning on. It was working fine until yesterday, but now it doesn't respond. Please send out the refund immediately. I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: I'm having an issue with the Xbox. Please assist. For example, if your product is $3.99 - you can sell it at $3.98 with a new order, so your customer will get 25% I've noticed a peculiar error message popping up on my Xbox screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Xbox Controller
+Ticket description: I've recently set up my Microsoft Xbox Controller, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? - You can't change your network settings - On most systems you don't I need assistance as soon as possible because it's affecting my work and productivity.","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Kindle
+Ticket description: I'm having an issue with the Amazon Kindle. Please assist. How do I get my $25 gift card refund? Give the address to purchase the card. Use this link to get the card: I'm unable to find the option to perform the desired action in the Amazon Kindle. Could you please guide me through the steps?","Ticket type: Billing inquiry
+Ticket subject: Product compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Amazon Kindle
+Ticket description: I'm having an issue with the Amazon Kindle. Please assist. Thank you for your prompt and helpful service. I'm having an issue with the Amazon Kindle. Please assist. I've checked for any available software updates for my Amazon Kindle, but there are none.","Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Asus ROG
+Ticket description: I'm having an issue with the Asus ROG. Please assist. Product is sold by Cafe Crave I've noticed a peculiar error message popping up on my Asus ROG screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I'm having an issue with the Microsoft Surface. Please assist. * Note: No Payments + No Interest if paid in full in 6 months through PayPal Credit. Simply check out using PayPal and select PayPal Credit! I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Refund request
+Ticket subject: Hardware issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I'm encountering a software bug in the LG OLED. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? Yes that can happen anywhere in the application. When you attempt I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Pixel
+Ticket description: I'm having an issue with the Google Pixel. Please assist. Thank you. :\ I'm having an issue with the product_purchased}. Please assist. thank you. :\ ""Luna Beach"" I've noticed a peculiar error message popping up on my Google Pixel screen. It says '{error_message}'. What does it mean?","Ticket type: Cancellation request
+Ticket subject: Peripheral compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. I'm unable to find the option to perform the desired action in the Microsoft Office. Could you please guide me through the steps?","Ticket type: Technical issue
+Ticket subject: Product recommendation
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dyson Vacuum Cleaner
+Ticket description: I'm unable to access my Dyson Vacuum Cleaner account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? {product_p The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Product inquiry
+Ticket subject: Network problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I'm having an issue with the LG Smart TV. Please assist. We have a [NUMBER REMOVED] value on this product. You can buy the 2x to full-size product from us online. For a full size, please let me I'm unable to find the option to perform the desired action in the LG Smart TV. Could you please guide me through the steps?","Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: I'm facing issues logging into my Garmin Forerunner account. It says my account is locked. What should I do to unlock it? If you want to unlock your account and log into another device you can then do the I've tried using different cables, adapters, or peripherals with my Garmin Forerunner, but the issue persists.","Ticket type: Product inquiry
+Ticket subject: Cancellation request
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I'm having an issue with the GoPro Hero. Please assist. I know where this product comes from. I'm going to try it on in different ways. I'll try to put it on in the coming days, but not The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Lenovo ThinkPad
+Ticket description: I'm facing a problem with my Lenovo ThinkPad. The Lenovo ThinkPad is not turning on. It was working fine until yesterday, but now it doesn't respond. What's going on with this page I've tried clearing the cache and data for the Lenovo ThinkPad app, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Peripheral compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose SoundLink Speaker
+Ticket description: I'm having an issue with the Bose SoundLink Speaker. Please assist. I have no time for this. There's just too much stuff going on here, and the only option is giving up on the stuff. I'm on my med I'm unable to find the option to perform the desired action in the Bose SoundLink Speaker. Could you please guide me through the steps?","Ticket type: Refund request
+Ticket subject: Network problem
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Philips Hue Lights
+Ticket description: I'm facing a problem with my Philips Hue Lights. The Philips Hue Lights is not turning on. It was working fine until yesterday, but now it doesn't respond. I am doing a check. I am wondering I'm worried that the issue might be hardware-related and might require repair or replacement.","Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I'm having trouble connecting my LG OLED to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? Step 2: Open I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Technical issue
+Ticket subject: Payment issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG Smart TV
+Ticket description: I've recently set up my LG Smart TV, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? 1. Check the LG Smart TV page to I've noticed a peculiar error message popping up on my LG Smart TV screen. It says '{error_message}'. What does it mean?","Ticket type: Cancellation request
+Ticket subject: Battery life
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: LG OLED
+Ticket description: I've noticed a software bug in the LG OLED app. It's causing data loss and unexpected errors. How can I resolve this issue? Please contact me in the ""Data loss problem."" and we can resolve this issue. I've tried different settings and configurations on my LG OLED, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: High"

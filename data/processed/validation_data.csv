@@ -1,0 +1,101 @@
+instruction,context,target
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: There seems to be a hardware problem with my Samsung Soundbar. The screen is flickering, and I'm unable to use it. What should I do? 2. Change the settings to be less fainting or flicker I've tried troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Cancellation request
+Ticket subject: Data loss
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Google Nest
+Ticket description: I'm having an issue with the Google Nest. Please assist. </p> <!-- product_purchased --> <p>As soon as you can install this plugin, you can do it from anywhere in the App! Just I'm unable to find the option to perform the desired action in the Google Nest. Could you please guide me through the steps?","Ticket type: Technical issue
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Roomba Robot Vacuum
+Ticket description: I'm having an issue with the Roomba Robot Vacuum. Please assist. Please help me out. This is a very small order but I'll be trying it out quickly. It's really just my new favorite brand. I've I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","Ticket type: Cancellation request
+Ticket subject: Product setup
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nest Thermostat
+Ticket description: I'm having an issue with the Nest Thermostat. Please assist. This item goes to current stock at the same time. 3.3.6 - [NUMBER REMOVED] We were able to ship this order I've recently updated the firmware of my Nest Thermostat, and the issue started happening afterward. Could it be related to the update?","Ticket type: Billing inquiry
+Ticket subject: Hardware issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Garmin Forerunner
+Ticket description: The Garmin Forerunner is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? A network can only be established on an isolated node, or by connecting I've noticed that the issue occurs consistently when I use a specific feature or application on my Garmin Forerunner.","Ticket type: Cancellation request
+Ticket subject: Installation support
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: PlayStation
+Ticket description: I'm having an issue with the PlayStation. Please assist. If you want to be included in this listing, please click the ""Add to List"" link at the top of the post to your right. My address is 5 I've noticed a sudden decrease in battery life on my PlayStation. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Bose SoundLink Speaker
+Ticket description: I'm having an issue with the Bose SoundLink Speaker. Please assist. I'm having an issue with the Bose SoundLink Speaker. Please assist. I'm having an issue with the {product_purch I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.","Ticket type: Billing inquiry
+Ticket subject: Peripheral compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Versa Smartwatch
+Ticket description: I'm having an issue with the Fitbit Versa Smartwatch. Please assist. * * * [EMAIL REMOVED] array of purchased items * [EMAIL REMOVED] int */ public void purchase ( int product_size, I'm not sure if this issue is specific to my device or if others have reported similar problems.","Ticket type: Refund request
+Ticket subject: Peripheral compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony PlayStation
+Ticket description: I'm having an issue with the Sony PlayStation. Please assist. Product ID: [NUMBER REMOVED] Product ID: [NUMBER REMOVED] Last update: [NUMBER REMOVED] Available: 5th of every month I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Ticket type: Refund request
+Ticket subject: Network problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: HP Pavilion
+Ticket description: I'm having an issue with the HP Pavilion. Please assist. Thank you so much, I just got my cart from etsy and it's in great condition it's working now! I received the package today and it The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Product inquiry
+Ticket subject: Display issue
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony Xperia
+Ticket description: The Sony Xperia is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? We would love to hear from you. Thank you for your help. I've recently updated the firmware of my Sony Xperia, and the issue started happening afterward. Could it be related to the update?","Ticket type: Cancellation request
+Ticket subject: Refund request
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Xbox
+Ticket description: My Xbox crashed, and I lost all the data stored on it. Is there any way to recover the lost data? The company asked me if I wanted their support staff to look into it. After the reply I've noticed a peculiar error message popping up on my Xbox screen. It says '{error_message}'. What does it mean?","Ticket type: Refund request
+Ticket subject: Hardware issue
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Sony Xperia
+Ticket description: I'm facing issues logging into my Sony Xperia account. It says my account is locked. What should I do to unlock it? - You can not log into your device's WiFi network, or a device with it I'm worried that the issue might be hardware-related and might require repair or replacement.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Autodesk AutoCAD
+Ticket description: I'm having an issue with the Autodesk AutoCAD. Please assist. Please note: ""product_purchased"" is a short-lived term, so please remember to use the product name when creating a refund. Additionally I've performed a factory reset on my Autodesk AutoCAD, hoping it would resolve the problem, but it didn't help.","Ticket type: Product inquiry
+Ticket subject: Product setup
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Apple AirPods
+Ticket description: There seems to be a glitch in the Apple AirPods software. It freezes frequently, making it difficult to use. Can you please provide a solution? Thank you! If you do not have access to the software, you I've tried different settings and configurations on my Apple AirPods, but the issue persists.","Ticket type: Technical issue
+Ticket subject: Peripheral compatibility
+Priority: Low"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: The Samsung Soundbar is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? You can solve this problem by following the steps below: Download I've checked for software updates, and my Samsung Soundbar is already running the latest version.","Ticket type: Cancellation request
+Ticket subject: Product compatibility
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: GoPro Hero
+Ticket description: I've noticed a software bug in the GoPro Hero app. It's causing data loss and unexpected errors. How can I resolve this issue? The only way is to get in touch with one person to help. We'll start I've already contacted customer support multiple times, but the issue remains unresolved.","Ticket type: Product inquiry
+Ticket subject: Account access
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Xbox Controller
+Ticket description: I'm having trouble connecting my Microsoft Xbox Controller to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? Can I install a I've noticed a peculiar error message popping up on my Microsoft Xbox Controller screen. It says '{error_message}'. What does it mean?","Ticket type: Billing inquiry
+Ticket subject: Delivery problem
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Surface
+Ticket description: I've accidentally deleted important data from my Microsoft Surface. Is there any way to recover the deleted files? I need them urgently. When I use {name}{name_purchased}, the {products} information, I know I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","Ticket type: Billing inquiry
+Ticket subject: Battery life
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Microsoft Office
+Ticket description: I'm having an issue with the Microsoft Office. Please assist. If you're having any doubt, please contact the customer support department at (800) [NUMBER REMOVED] to correct the mistake. The items in our stores I've noticed a sudden decrease in battery life on my Microsoft Office. It used to last much longer.","Ticket type: Technical issue
+Ticket subject: Network problem
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Fitbit Versa Smartwatch
+Ticket description: I'm having an issue with the Fitbit Versa Smartwatch. Please assist. :P ""This might not be the best solution, but we would like to be at the receiving end of the gift, so we are going to send I'm not sure if this issue is specific to my device or if others have reported similar problems.","Ticket type: Billing inquiry
+Ticket subject: Battery life
+Priority: High"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Nest Thermostat
+Ticket description: I'm having an issue with the Nest Thermostat. Please assist. For more details please try contacting our Sales Department. Thank you! We are aware that if you purchase the same equipment on an authorized reseller, it will I'm using the original charger that came with my Nest Thermostat, but it's not charging properly.","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Samsung Soundbar
+Ticket description: I'm having an issue with the Samsung Soundbar. Please assist. My question from last week is: Have my new account ever been verified? I have two different accounts on this one, and what is my problem The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Refund request
+Ticket subject: Delivery problem
+Priority: Medium"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: PlayStation
+Ticket description: I've encountered a data loss issue with my PlayStation. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? I've encountered a data loss issue with my library. All I've noticed a peculiar error message popping up on my PlayStation screen. It says '{error_message}'. What does it mean?","Ticket type: Cancellation request
+Ticket subject: Data loss
+Priority: Critical"
+"Classify the customer-support ticket. Identify its ticket type, ticket subject, and priority.","Product: Dyson Vacuum Cleaner
+Ticket description: I've accidentally deleted important data from my Dyson Vacuum Cleaner. Is there any way to recover the deleted files? I need them urgently. [NUMBER REMOVED] <Ajarm> what if those files are on a device The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: Medium"

@@ -1,0 +1,4 @@
+prompt_id,research_area,prompt
+CB-01,Consumer behavior,"Using the supplied customer support data, identify the most common ticket types and ticket subjects. Explain what these patterns suggest about customers main needs and problems. Support the answer with counts from the data."
+MT-01,Market trends,"Group the customer support records by year and month of purchase. Identify changes in the ticket types and subjects associated with each purchase period. Describe these as patterns within the support ticket dataset."
+CA-01,Competitor analysis,"Compare products in similar categories using ticket type, ticket subject, priority, and customer satisfaction. Identify differences in their support issue patterns while acknowledging that the dataset does not contain sales or market share information."
