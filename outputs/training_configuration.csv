@@ -1,0 +1,12 @@
+setting,value
+model,google/flan-t5-small
+training examples,200
+validation examples,25
+epochs,2
+training batch size,2
+validation batch size,2
+learning rate,5e-05
+maximum input length,256
+maximum target length,64
+random seed,42
+device,CPU

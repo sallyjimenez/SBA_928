@@ -1,0 +1,76 @@
+example_number,expected_target,original_model_response,fine_tuned_model_response,original_correct_fields,fine_tuned_correct_fields
+1,"Ticket type: Refund request
+Ticket subject: Product recommendation
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,0
+2,"Ticket type: Technical issue
+Ticket subject: Product compatibility
+Priority: High",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: Critical,0,1
+3,"Ticket type: Refund request
+Ticket subject: Refund request
+Priority: Low",priority,Ticket type: Technical issue Ticket subject: Battery life Priority: High,0,0
+4,"Ticket type: Product inquiry
+Ticket subject: Delivery problem
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product update Priority: High,0,0
+5,"Ticket type: Technical issue
+Ticket subject: Display issue
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: Medium,0,1
+6,"Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: Low",priority,Ticket type: Refund request Ticket subject: Product issue Priority: High,0,0
+7,"Ticket type: Refund request
+Ticket subject: Battery life
+Priority: Medium",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,0
+8,"Ticket type: Product inquiry
+Ticket subject: Product compatibility
+Priority: Medium",On most systems you don't I need assistance as soon as possible because it's affecting my work and productivity.,Ticket type: Technical issue Ticket subject: Product compatibility Priority: High,0,1
+9,"Ticket type: Billing inquiry
+Ticket subject: Product compatibility
+Priority: Low",priority,Ticket type: Refund request Ticket subject: Product issue Priority: Medium,0,0
+10,"Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: Medium",priority,Ticket type: Technical issue Ticket subject: Product update Priority: Medium,0,1
+11,"Ticket type: Refund request
+Ticket subject: Refund request
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: Medium,0,0
+12,"Ticket type: Refund request
+Ticket subject: Hardware issue
+Priority: Low",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,0
+13,"Ticket type: Cancellation request
+Ticket subject: Display issue
+Priority: High",priority,Ticket type: Technical issue Ticket subject: Product compatibility Priority: High,0,1
+14,"Ticket type: Cancellation request
+Ticket subject: Peripheral compatibility
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: Medium,0,0
+15,"Ticket type: Technical issue
+Ticket subject: Product recommendation
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,1
+16,"Ticket type: Product inquiry
+Ticket subject: Network problem
+Priority: Medium",priority,Ticket type: Refund request Ticket subject: Product issue Priority: Critical,0,0
+17,"Ticket type: Product inquiry
+Ticket subject: Data loss
+Priority: Medium",priority,Ticket type: Refund request Ticket subject: Product issue Priority: High,0,0
+18,"Ticket type: Product inquiry
+Ticket subject: Cancellation request
+Priority: Low",priority,Ticket type: Refund request Ticket subject: Product issue Priority: High,0,0
+19,"Ticket type: Cancellation request
+Ticket subject: Network problem
+Priority: High",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: Medium,0,0
+20,"Ticket type: Billing inquiry
+Ticket subject: Peripheral compatibility
+Priority: Critical",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,0
+21,"Ticket type: Refund request
+Ticket subject: Network problem
+Priority: Low",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,0
+22,"Ticket type: Technical issue
+Ticket subject: Cancellation request
+Priority: Medium",priority,Ticket type: Technical issue Ticket subject: Product issue Priority: High,0,1
+23,"Ticket type: Technical issue
+Ticket subject: Payment issue
+Priority: Medium",priority,Ticket type: Technical issue Ticket subject: Network issue Priority: High,0,1
+24,"Ticket type: Cancellation request
+Ticket subject: Battery life
+Priority: Low",priority,Ticket type: Technical issue Ticket subject: Product compatibility Priority: High,0,0
+25,"Ticket type: Billing inquiry
+Ticket subject: Payment issue
+Priority: High",priority,Ticket type: Technical issue Ticket subject: Product compatibility Priority: High,0,1

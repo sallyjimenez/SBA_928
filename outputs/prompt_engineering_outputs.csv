@@ -1,0 +1,139 @@
+variation_id,source_prompt_id,research_area,prompt_style,prompt,data_context,base_model_response
+CB-01-BASIC,CB-01,Consumer behavior,Basic,Identify the most common ticket types and ticket subjects in the supplied customer-support data. Explain what they suggest about customers' main needs and problems.,"Total tickets: 8469
+
+Ticket type counts:
+Refund request: 1752
+Technical issue: 1747
+Cancellation request: 1695
+Product inquiry: 1641
+Billing inquiry: 1634
+
+Five most common ticket subjects:
+Refund request: 576
+Software bug: 574
+Product compatibility: 567
+Delivery problem: 561
+Hardware issue: 547
+",Ticket types and subject areas
+CB-01-ROLE,CB-01,Consumer behavior,Role-based,"You are a market research analyst studying consumer behavior. Using the supplied customer-support data, identify the most common ticket types and ticket subjects. Explain what these patterns suggest about customers' main needs and problems, and support the answer with counts.","Total tickets: 8469
+
+Ticket type counts:
+Refund request: 1752
+Technical issue: 1747
+Cancellation request: 1695
+Product inquiry: 1641
+Billing inquiry: 1634
+
+Five most common ticket subjects:
+Refund request: 576
+Software bug: 574
+Product compatibility: 567
+Delivery problem: 561
+Hardware issue: 547
+",5
+CB-01-STRUCTURED,CB-01,Consumer behavior,Structured-output,"Analyze the supplied customer-support data. Return the answer under exactly three headings: Most Common Ticket Types, Most Common Ticket Subjects, and Consumer Needs. Include supporting counts and do not make claims unsupported by the data.","Total tickets: 8469
+
+Ticket type counts:
+Refund request: 1752
+Technical issue: 1747
+Cancellation request: 1695
+Product inquiry: 1641
+Billing inquiry: 1634
+
+Five most common ticket subjects:
+Refund request: 576
+Software bug: 574
+Product compatibility: 567
+Delivery problem: 561
+Hardware issue: 547
+",Customer-support
+MT-01-BASIC,MT-01,Market trends,Basic,Group the customer-support records by year and month of purchase. Identify changes in ticket types and ticket subjects across the purchase periods.,"2020-01: total tickets=377, top ticket type=Technical issue (86), top ticket subject=Delivery problem (30)
+2020-02: total tickets=376, top ticket type=Billing inquiry (83), top ticket subject=Product recommendation (34)
+2020-03: total tickets=324, top ticket type=Refund request (71), top ticket subject=Product compatibility (28)
+2020-04: total tickets=354, top ticket type=Billing inquiry (80), top ticket subject=Software bug (32)
+2020-05: total tickets=322, top ticket type=Refund request (80), top ticket subject=Installation support (25)
+2020-06: total tickets=358, top ticket type=Technical issue (85), top ticket subject=Hardware issue (30)
+2020-07: total tickets=366, top ticket type=Refund request (84), top ticket subject=Refund request (32)
+2020-08: total tickets=327, top ticket type=Refund request (77), top ticket subject=Network problem (30)
+2020-09: total tickets=369, top ticket type=Product inquiry (89), top ticket subject=Delivery problem (37)
+2020-10: total tickets=373, top ticket type=Refund request (84), top ticket subject=Refund request (36)
+2020-11: total tickets=340, top ticket type=Cancellation request (79), top ticket subject=Peripheral compatibility (33)
+2020-12: total tickets=350, top ticket type=Refund request (76), top ticket subject=Installation support (30)
+2021-01: total tickets=359, top ticket type=Product inquiry (75), top ticket subject=Data loss (31)
+2021-02: total tickets=339, top ticket type=Technical issue (79), top ticket subject=Cancellation request (27)
+2021-03: total tickets=348, top ticket type=Technical issue (78), top ticket subject=Cancellation request (30)
+2021-04: total tickets=364, top ticket type=Billing inquiry (80), top ticket subject=Battery life (30)
+2021-05: total tickets=379, top ticket type=Technical issue (86), top ticket subject=Installation support (29)
+2021-06: total tickets=320, top ticket type=Refund request (73), top ticket subject=Refund request (30)
+2021-07: total tickets=361, top ticket type=Technical issue (88), top ticket subject=Delivery problem (30)
+2021-08: total tickets=364, top ticket type=Billing inquiry (85), top ticket subject=Refund request (31)
+2021-09: total tickets=327, top ticket type=Refund request (76), top ticket subject=Peripheral compatibility (28)
+2021-10: total tickets=362, top ticket type=Technical issue (90), top ticket subject=Payment issue (28)
+2021-11: total tickets=364, top ticket type=Cancellation request (81), top ticket subject=Peripheral compatibility (29)
+2021-12: total tickets=346, top ticket type=Technical issue (84), top ticket subject=Software bug (29)
+","2021-06: Total tickets = 377, top ticket type = Technical issue (86), top ticket type = Technical issue (85), top ticket type = Technical issue (79), top ticket type = Technical issue (79), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical issue (86), top ticket type = Technical"
+MT-01-ROLE,MT-01,Market trends,Role-based,"You are a market trends analyst. Examine the customer-support records by year and month of purchase. Identify changes in ticket types and ticket subjects, and describe them only as patterns within this support-ticket dataset.","2020-01: total tickets=377, top ticket type=Technical issue (86), top ticket subject=Delivery problem (30)
+2020-02: total tickets=376, top ticket type=Billing inquiry (83), top ticket subject=Product recommendation (34)
+2020-03: total tickets=324, top ticket type=Refund request (71), top ticket subject=Product compatibility (28)
+2020-04: total tickets=354, top ticket type=Billing inquiry (80), top ticket subject=Software bug (32)
+2020-05: total tickets=322, top ticket type=Refund request (80), top ticket subject=Installation support (25)
+2020-06: total tickets=358, top ticket type=Technical issue (85), top ticket subject=Hardware issue (30)
+2020-07: total tickets=366, top ticket type=Refund request (84), top ticket subject=Refund request (32)
+2020-08: total tickets=327, top ticket type=Refund request (77), top ticket subject=Network problem (30)
+2020-09: total tickets=369, top ticket type=Product inquiry (89), top ticket subject=Delivery problem (37)
+2020-10: total tickets=373, top ticket type=Refund request (84), top ticket subject=Refund request (36)
+2020-11: total tickets=340, top ticket type=Cancellation request (79), top ticket subject=Peripheral compatibility (33)
+2020-12: total tickets=350, top ticket type=Refund request (76), top ticket subject=Installation support (30)
+2021-01: total tickets=359, top ticket type=Product inquiry (75), top ticket subject=Data loss (31)
+2021-02: total tickets=339, top ticket type=Technical issue (79), top ticket subject=Cancellation request (27)
+2021-03: total tickets=348, top ticket type=Technical issue (78), top ticket subject=Cancellation request (30)
+2021-04: total tickets=364, top ticket type=Billing inquiry (80), top ticket subject=Battery life (30)
+2021-05: total tickets=379, top ticket type=Technical issue (86), top ticket subject=Installation support (29)
+2021-06: total tickets=320, top ticket type=Refund request (73), top ticket subject=Refund request (30)
+2021-07: total tickets=361, top ticket type=Technical issue (88), top ticket subject=Delivery problem (30)
+2021-08: total tickets=364, top ticket type=Billing inquiry (85), top ticket subject=Refund request (31)
+2021-09: total tickets=327, top ticket type=Refund request (76), top ticket subject=Peripheral compatibility (28)
+2021-10: total tickets=362, top ticket type=Technical issue (90), top ticket subject=Payment issue (28)
+2021-11: total tickets=364, top ticket type=Cancellation request (81), top ticket subject=Peripheral compatibility (29)
+2021-12: total tickets=346, top ticket type=Technical issue (84), top ticket subject=Software bug (29)
+",2021-06
+MT-01-STRUCTURED,MT-01,Market trends,Structured-output,"Analyze the customer-support records by year and month of purchase. Return the answer under exactly four headings: Purchase Periods, Ticket Type Changes, Ticket Subject Changes, and Limitations. Include supporting counts and do not describe the results as overall sales trends.","2020-01: total tickets=377, top ticket type=Technical issue (86), top ticket subject=Delivery problem (30)
+2020-02: total tickets=376, top ticket type=Billing inquiry (83), top ticket subject=Product recommendation (34)
+2020-03: total tickets=324, top ticket type=Refund request (71), top ticket subject=Product compatibility (28)
+2020-04: total tickets=354, top ticket type=Billing inquiry (80), top ticket subject=Software bug (32)
+2020-05: total tickets=322, top ticket type=Refund request (80), top ticket subject=Installation support (25)
+2020-06: total tickets=358, top ticket type=Technical issue (85), top ticket subject=Hardware issue (30)
+2020-07: total tickets=366, top ticket type=Refund request (84), top ticket subject=Refund request (32)
+2020-08: total tickets=327, top ticket type=Refund request (77), top ticket subject=Network problem (30)
+2020-09: total tickets=369, top ticket type=Product inquiry (89), top ticket subject=Delivery problem (37)
+2020-10: total tickets=373, top ticket type=Refund request (84), top ticket subject=Refund request (36)
+2020-11: total tickets=340, top ticket type=Cancellation request (79), top ticket subject=Peripheral compatibility (33)
+2020-12: total tickets=350, top ticket type=Refund request (76), top ticket subject=Installation support (30)
+2021-01: total tickets=359, top ticket type=Product inquiry (75), top ticket subject=Data loss (31)
+2021-02: total tickets=339, top ticket type=Technical issue (79), top ticket subject=Cancellation request (27)
+2021-03: total tickets=348, top ticket type=Technical issue (78), top ticket subject=Cancellation request (30)
+2021-04: total tickets=364, top ticket type=Billing inquiry (80), top ticket subject=Battery life (30)
+2021-05: total tickets=379, top ticket type=Technical issue (86), top ticket subject=Installation support (29)
+2021-06: total tickets=320, top ticket type=Refund request (73), top ticket subject=Refund request (30)
+2021-07: total tickets=361, top ticket type=Technical issue (88), top ticket subject=Delivery problem (30)
+2021-08: total tickets=364, top ticket type=Billing inquiry (85), top ticket subject=Refund request (31)
+2021-09: total tickets=327, top ticket type=Refund request (76), top ticket subject=Peripheral compatibility (28)
+2021-10: total tickets=362, top ticket type=Technical issue (90), top ticket subject=Payment issue (28)
+2021-11: total tickets=364, top ticket type=Cancellation request (81), top ticket subject=Peripheral compatibility (29)
+2021-12: total tickets=346, top ticket type=Technical issue (84), top ticket subject=Software bug (29)
+",Customer-support records are based on customer-support records.
+CA-01-BASIC,CA-01,Competitor analysis,Basic,"Compare products in similar categories using ticket type, ticket subject, priority, and customer satisfaction. Identify differences in their customer-support patterns.","Google Pixel: total tickets=203, top ticket type=Cancellation request (50), top ticket subject=Network problem (17), top priority=Critical (65), average satisfaction=3.22/5 from 69 rated tickets
+iPhone: total tickets=212, top ticket type=Billing inquiry (51), top ticket subject=Refund request (19), top priority=Medium (57), average satisfaction=3.12/5 from 82 rated tickets
+Samsung Galaxy: total tickets=194, top ticket type=Refund request (46), top ticket subject=Network problem (20), top priority=High (57), average satisfaction=2.98/5 from 57 rated tickets
+Sony Xperia: total tickets=217, top ticket type=Refund request (52), top ticket subject=Peripheral compatibility (19), top priority=Medium (65), average satisfaction=2.69/5 from 78 rated tickets
+",Customer satisfaction: Average satisfaction: 2.69/5 from 78 rated tickets
+CA-01-ROLE,CA-01,Competitor analysis,Role-based,"You are a competitor research analyst. Compare similar products using ticket type, ticket subject, priority, and customer satisfaction. Explain the differences in their support patterns without treating ticket counts as sales or market share.","Google Pixel: total tickets=203, top ticket type=Cancellation request (50), top ticket subject=Network problem (17), top priority=Critical (65), average satisfaction=3.22/5 from 69 rated tickets
+iPhone: total tickets=212, top ticket type=Billing inquiry (51), top ticket subject=Refund request (19), top priority=Medium (57), average satisfaction=3.12/5 from 82 rated tickets
+Samsung Galaxy: total tickets=194, top ticket type=Refund request (46), top ticket subject=Network problem (20), top priority=High (57), average satisfaction=2.98/5 from 57 rated tickets
+Sony Xperia: total tickets=217, top ticket type=Refund request (52), top ticket subject=Peripheral compatibility (19), top priority=Medium (65), average satisfaction=2.69/5 from 78 rated tickets
+",Customer satisfaction is a factor in the average satisfaction of 78 rated tickets.
+CA-01-STRUCTURED,CA-01,Competitor analysis,Structured-output,"Compare similar products using the supplied customer-support data. Return the answer under exactly four headings: Products Compared, Support-Issue Differences, Satisfaction Differences, and Limitations. Include supporting counts and do not make claims about sales or market share.","Google Pixel: total tickets=203, top ticket type=Cancellation request (50), top ticket subject=Network problem (17), top priority=Critical (65), average satisfaction=3.22/5 from 69 rated tickets
+iPhone: total tickets=212, top ticket type=Billing inquiry (51), top ticket subject=Refund request (19), top priority=Medium (57), average satisfaction=3.12/5 from 82 rated tickets
+Samsung Galaxy: total tickets=194, top ticket type=Refund request (46), top ticket subject=Network problem (20), top priority=High (57), average satisfaction=2.98/5 from 57 rated tickets
+Sony Xperia: total tickets=217, top ticket type=Refund request (52), top ticket subject=Peripheral compatibility (19), top priority=Medium (65), average satisfaction=2.69/5 from 78 rated tickets
+",Customer-Reported satisfaction
